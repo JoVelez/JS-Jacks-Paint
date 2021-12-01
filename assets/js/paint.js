@@ -1,3 +1,4 @@
+// took a look through the code
 function configureListeners() {
     var images = document.getElementsByTagName('img');    
 
